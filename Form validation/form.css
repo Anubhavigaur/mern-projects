@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2 {
+  margin: 20px;
+  padding: 5px;
+  color: white;
+  margin-bottom: 5px;
+}
+
+input {
+  margin: 5px;
+  padding: 5px;
+  display: flex;
+  width: 100;
+  border-radius: 5px;
+  align-items: center;
+
+  /* required; */
+
+}
+
+p {
+  color: red;
+}
+
+label {
+  color: white;
+}
+
+button {
+  margin: 5px;
+  display: flexbox;
+  width: 200px;
+  padding: 8px;
+  text-align: center;
+  background-color: blue;
+  border-radius: 5px;
+
+
+
+
+}
+
+#user-form {
+  padding: 20px;
+  width: 300px;
+
+
+
+
+
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 300px;
+
+  border-color: white;
+
+  align-items: center;
+  justify-content: center;
+
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  margin: 100px auto;
+  background-color: black;
+
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+
+
+
+}
+
+/* #toggle-password img,
+#toggle-confirm-password img {
+  width: 20px;
+  height: 20px;
+} */
+
+/* img{
+width: 35px;
+cursor:pointer
+} */
+/* #Password-conatiner{
+  display: flex;
+  align-items: center;
+} */
